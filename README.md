@@ -11,4 +11,5 @@ Using F-Score and M-Score to evaluate and detect fraud.
 Where:
 
 β0, β1, ..., βn are coefficients determined through statistical analysis.
+
 Ratio1, Ratio2, ..., RatioN are specific financial ratios used in the M-Score model.
